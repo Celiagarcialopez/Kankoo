@@ -13,7 +13,15 @@ Esta es una aplicación web (mobile first) que hemos desarrollado en equipo como
  - Licencias
 
 ### Información general
+- Existen 2 tipos de roles: administrador y cliente.
+- Los clientes pueden subir contenido a la app y, para ello, se tendrán que registrar. Un usuario que no esté registrado, no podrá acceder a todo el contenido.
+- **El administrador** puede desactivar o activar usuarios, activar o desactivar contenido subido por los usuarios y ver todas las estadísticas de la app.
+- **Los usuarios** podrán crear guías turísticas virtuales que incluirán una o varias fotos, vídeo, audio-guía, título, descripción, distancia total en km del recorrido, información sobre accesibilidad y precio (si la guía es gratuita no aparece el campo precio). Todas las guías están conectadas con la Api de Google Maps.
+- Los usuarios también pueden valorar las guías con una puntuación de 1-5 estrellas y adquirirlas.
+- La app contiene un buscador que filtra por ciudad, provincia o título de la guía.
 ### Tecnologías utilizadas
+<img width="534" alt="tecnologiasKankoo-pdf" src="https://github.com/chelu07/KankooApp/assets/147407076/2f3adf18-74a7-4758-b311-f16ccd82f00b">
+
 ### Imágenes del proyecto
 Home
 ![cp](https://github.com/Celiagarcialopez/Kankoo/assets/146743327/c75fbc16-9bf6-42e3-882d-efaa8e470cc6)
